@@ -318,7 +318,7 @@
     "koa-webpack-hot-middleware": "^1.0.3",
     "lint-staged": "^12.3.8",
     "nodemon": "^2.0.18",
-    "prettier": "^2.0.5",
+    "prettier": "^2.8.8",
     "react-refresh": "^0.9.0",
     "rimraf": "^2.5.4",
     "terser-webpack-plugin": "^4.1.0",
